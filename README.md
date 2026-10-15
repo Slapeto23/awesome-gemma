@@ -87,7 +87,7 @@
 - [AI Edge Gallery](https://github.com/google-ai-edge/gallery) — On-device ML models and examples for mobile and edge devices.
 - [LiteRT](https://developers.google.com/edge/litert-lm/models/gemma-4) — Google's runtime for on-device ML deployment.
 - [JAX](https://github.com/google-deepmind/gemma) — Official Gemma reference implementation in JAX and Flax.
-- [React Native](https://github.com/software-mansion/react-native-executorch/tree/main/apps/llm) — Run on-device Gemma models within React Native using ExecuTorch.
+- [React Native](https://github.com/software-mansion/react-native-executorch/tree/main/apps/nlp) — Run on-device Gemma models within React Native using ExecuTorch.
 - [GenieX](https://aihub.qualcomm.com/models/gemma_4_e4b_it) — Run Gemma on Qualcomm hardware.
 - [Docker](https://hub.docker.com/r/ai/gemma4) — Run Gemma 4 in Docker.
 
